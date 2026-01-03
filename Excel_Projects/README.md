@@ -22,6 +22,7 @@ Dashboard Design & Layout
 Basic Business Analytics
 
 📈 Key Insights & Analysis
+
 🔹 Sales by Category
 Phones, Chairs, and Storage are the highest revenue-generating sub-categories
 Low-performing categories like Fasteners and Labels contribute minimal sales
