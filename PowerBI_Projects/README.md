@@ -1,4 +1,4 @@
-# Ad Performance Dashboard (Power BI)
+# Ad Performance Dashboard 
 
 ## Objective
 To analyze digital ad performance and identify opportunities to improve conversions and ROI.
