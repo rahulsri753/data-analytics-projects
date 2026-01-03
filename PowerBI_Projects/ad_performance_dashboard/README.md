@@ -1,3 +1,5 @@
+📊 Ad Performance Dashboard Analysis | PowerBI Project
+
 Analyzed end-to-end ad funnel (impressions to conversions) using Power BI.
 
 Identified high CTR (11.76%) and detected conversion drop-off post engagement.
