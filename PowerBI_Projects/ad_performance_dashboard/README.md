@@ -1,9 +1,25 @@
-📊 Ad Performance Dashboard Analysis | PowerBI Project
+# Ad Performance Dashboard 
 
-Analyzed end-to-end ad funnel (impressions to conversions) using Power BI.
+## Objective
+To analyze digital ad performance and identify opportunities to improve conversions and ROI.
 
-Identified high CTR (11.76%) and detected conversion drop-off post engagement.
+## KPIs
+- Impressions
+- Click Through Rate (CTR)
+- Conversions
+- Conversion Drop-off
 
-Performed audience, geography, and ad format analysis to improve ROI.
+## Tools Used
+- Power BI
+- DAX
+- Excel (data source)
+  
+📊 Ad Performance Dashboard Analysis 
 
-Delivered data-driven insights to optimize targeting, timing, and budget allocation.
+- Analyzed end-to-end ad funnel (impressions to conversions) using Power BI.
+
+- Identified high CTR (11.76%) and detected conversion drop-off post engagement.
+
+- Performed audience, geography, and ad format analysis to improve ROI.
+
+- Delivered data-driven insights to optimize targeting, timing, and budget allocation.
