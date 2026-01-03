@@ -25,19 +25,24 @@ Basic Business Analytics
 🔹 Sales by Category
 Phones, Chairs, and Storage are the highest revenue-generating sub-categories
 Low-performing categories like Fasteners and Labels contribute minimal sales
+
 🔹 Profit Gained Over Time
 Consistent profit growth from 2014 to 2017
 Technology category shows the highest profit growth trend
 Furniture has comparatively lower but stable profitability
+
 🔹 Monthly Sales Trend
 Sales show seasonal spikes, especially toward year-end
 Indicates opportunities for seasonal marketing and inventory planning
+
 🔹 Top 5 Customers Making Profit
 A small set of customers contributes a significant share of total profit
 Useful for customer retention and loyalty strategies
+
 🔹 Sales by State
 Strong sales concentration in high-population and commercial states
 Helps identify high-value vs low-performing regions
+
 🔹 Customer Count Analysis
 Customer base increased steadily year-over-year
 Shows healthy business growth and market expansion
