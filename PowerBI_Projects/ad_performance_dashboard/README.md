@@ -14,7 +14,7 @@ To analyze digital ad performance and identify opportunities to improve conversi
 - DAX
 - Excel (data source)
   
-📊 ## Ad Performance Dashboard Analysis 
+## Ad Performance Dashboard Analysis 
 
 - Analyzed end-to-end ad funnel (impressions to conversions) using Power BI.
 
