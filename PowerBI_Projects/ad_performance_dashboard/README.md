@@ -1,25 +1,28 @@
-# Ad Performance Dashboard 
+# Ad Performance Dashboard | Power BI
 
 ## Objective
-To analyze digital ad performance and identify opportunities to improve conversions and ROI.
+To analyze digital advertising performance across the funnel and identify opportunities to improve conversions and ROI.
 
-## KPIs
-- Impressions
-- Click Through Rate (CTR)
-- Conversions
-- Conversion Drop-off
+## Business Problem
+Despite strong engagement on ads, conversion performance was inconsistent. The goal was to identify where users drop off in the funnel and optimize ad strategy accordingly.
+
+## Key KPIs
+- Impressions  
+- Click Through Rate (CTR)  
+- Conversions  
+- Conversion Drop-off  
 
 ## Tools Used
-- Power BI
-- DAX
+- Power BI  
+- DAX  
 - Excel (data source)
-  
-## Ad Performance Dashboard Analysis 
 
-- Analyzed end-to-end ad funnel (impressions to conversions) using Power BI.
+## Analysis & Insights
+- Analyzed the end-to-end ad funnel from impressions to conversions using Power BI.
+- Identified a high CTR of *11.76%*, indicating strong ad creatives and targeting.
+- Detected a significant conversion drop-off after user engagement, highlighting landing page or funnel issues.
+- Performed audience, geography, and ad format analysis to identify high-performing segments.
 
-- Identified high CTR (11.76%) and detected conversion drop-off post engagement.
-
-- Performed audience, geography, and ad format analysis to improve ROI.
-
-- Delivered data-driven insights to optimize targeting, timing, and budget allocation.
+## Outcome
+- Provided actionable recommendations to improve conversion rate optimization (CRO).
+- Suggested reallocating budget toward high-performing ad formats and regions to improve ROI.
