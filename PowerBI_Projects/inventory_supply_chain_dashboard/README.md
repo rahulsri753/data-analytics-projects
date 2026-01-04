@@ -1,3 +1,5 @@
+# Inventory Supply Chain Analysis
+
 •	Built interactive Power BI dashboard to track inventory level, warehouse utilization, lead time, and transportation cost.
 
 •	Analyzed inventory turnover, Daily SaIes of Inventory, order fulfillment, and regional performance to identify stock and supply gaps.
