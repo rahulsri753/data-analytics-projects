@@ -31,7 +31,7 @@ Businesses need clear visibility into sales trends, profit drivers, top customer
 - Identified top 5 customers contributing the highest profit, supporting customer segmentation strategies.
 - Analyzed state-wise sales performance to identify high and low revenue regions.
 - Monitored customer count growth year-wise, showing consistent increase over time.
-- Enabled dynamic analysis using *year and category slicers*.
+- Enabled dynamic analysis using year and category slicers.
 
 ## Key Outcomes
 - Identified high-profit categories and customer segments.
