@@ -1,4 +1,4 @@
-# data-analytics-projects
+# Data-analytics-Projects
 This repository contains my data analytics projects demonstrating skills in data cleaning, analysis, visualization, and storytelling using real-world datasets.
 
 🧠 Skills & Tools
