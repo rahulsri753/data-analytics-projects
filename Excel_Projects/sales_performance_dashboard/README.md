@@ -1,27 +1,40 @@
-📊 Sales Dashboard Analysis | Excel Project
+# Sales Performance Dashboard | Excel
 
-📌 Project Overview:
+## Objective
+To analyze sales and profit performance across categories, customers, time periods, and regions, and provide business insights to support better sales and profitability decisions.
 
-This project is an end-to-end Sales Analysis Dashboard built using Microsoft Excel to analyze sales performance, profit trends, customer behavior, and regional performance. The dashboard provides actionable business insights through interactive visuals and slicers, enabling management to make data-driven decisions.
+## Business Problem
+Businesses need clear visibility into sales trends, profit drivers, top customers, and regional performance to improve revenue and control costs. This project focuses on identifying high-performing categories, profitable customers, and sales trends over time.
 
-🎯 Business Objectives:
+## Key Metrics & KPIs
+- Total Sales  
+- Total Profit  
+- Profit Trend (Year-wise)  
+- Monthly Sales Trend  
+- Sales by Category & Sub-Category  
+- Customer Count (Year-wise)  
+- Top 5 Customers by Profit  
+- Sales by State  
 
-Analyze sales and profit trends over time. Identify top-performing product categories and sub-categories. Track monthly sales patterns. Find top customers contributing to profit. Analyze state-wise sales performance. Monitor customer growth year-over-year.
+## Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Excel Formulas  
 
-🛠 Tools & Skills Used:
+## Dashboard Analysis & Insights
+- Built an interactive Excel dashboard using pivot tables and charts.
+- Analyzed sales by category and sub-category, identifying top contributors such as Phones and Chairs.
+- Tracked profit growth over time (2014–2017) across Furniture, Office Supplies, and Technology.
+- Observed monthly sales trends, highlighting seasonal fluctuations.
+- Identified top 5 customers contributing the highest profit, supporting customer segmentation strategies.
+- Analyzed state-wise sales performance to identify high and low revenue regions.
+- Monitored customer count growth year-wise, showing consistent increase over time.
+- Enabled dynamic analysis using *year and category slicers*.
 
-Microsoft Excel. Pivot Tables & Pivot Charts. Slicers (Year, Category). Data Cleaning & Transformation. Conditional Formatting. Dashboard Design & Layout. Basic Business Analytics.
-
-📈 Key Insights & Analysis:
-
-🔹 Sales by Category Phones, Chairs, and Storage are the highest revenue-generating sub-categories. Low-performing categories like Fasteners and Labels contribute minimal sales.
-
-🔹 Profit Gained Over Time Consistent profit growth from 2014 to 2017. Technology category shows the highest profit growth trend. Furniture has comparatively lower but stable profitability.
-
-🔹 Monthly Sales Trend Sales show seasonal spikes, especially toward year-end. Indicates opportunities for seasonal marketing and inventory planning.
-
-🔹 Top 5 Customers Making Profit A small set of customers contributes a significant share of total profit. Useful for customer retention and loyalty strategies.
-
-🔹 Sales by State Strong sales concentration in high-population and commercial states. Helps identify high-value vs low-performing regions.
-
-🔹 Customer Count Analysis Customer base increased steadily year-over-year. Shows healthy business growth and market expansion.
+## Key Outcomes
+- Identified high-profit categories and customer segments.
+- Highlighted sales seasonality and growth trends.
+- Improved visibility into regional and customer-level performance.
+- Enabled data-driven sales and profitability analysis using Excel.
