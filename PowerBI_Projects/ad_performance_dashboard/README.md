@@ -22,14 +22,14 @@ Digital ad campaigns often generate high impressions and engagement, but convers
 - Excel (data source)
 
 ## Dashboard Analysis & Insights
-- Analyzed the *end-to-end ad funnel* from impressions to purchases.
-- Observed a strong *CTR of 11.76%*, indicating effective creatives and targeting.
-- Identified a *conversion drop-off after engagement*, highlighting potential landing page or funnel optimization opportunities.
-- Compared *ad type performance* (Carousel, Image, Stories, Video) and found Stories and Video ads delivering higher engagement and conversion rates.
-- Performed *time-based analysis* using hourly, weekly, and monthly trends to identify high-performing time slots.
-- Conducted *demographic analysis* by age and gender to identify the most responsive audience segments.
-- Analyzed *geographic performance* using country-level impressions to identify high-reach markets.
-- Enabled dynamic filtering using *Month, Campaign Name, Target Interests*, and metric selection slicers.
+- Analyzed the end-to-end ad funnel from impressions to purchases.
+- Observed a strong CTR of 11.76%, indicating effective creatives and targeting.
+- Identified a conversion drop-off after engagement, highlighting potential landing page or funnel optimization opportunities.
+- Compared ad type performance (Carousel, Image, Stories, Video) and found Stories and Video ads delivering higher engagement and conversion rates.
+- Performed time-based analysis using hourly, weekly, and monthly trends to identify high-performing time slots.
+- Conducted demographic analysis by age and gender to identify the most responsive audience segments.
+- Analyzed geographic performance using country-level impressions to identify high-reach markets.
+- Enabled dynamic filtering using Month, Campaign Name, Target Interests, and metric selection slicers.
 
 ## Key Outcomes
 - Identified high-performing ad formats and audience segments.
