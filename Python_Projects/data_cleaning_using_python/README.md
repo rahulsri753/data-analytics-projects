@@ -1,10 +1,10 @@
-### Data Cleaning using Python
+## Data Cleaning using Python
 
-Project Overview:
+### Project Overview:
 
 This project demonstrates a complete data cleaning workflow using Python to prepare raw data for accurate analysis. The dataset contained real-world issues such as missing values, duplicate records, outliers, inconsistent formats, and incorrect data types, which were systematically identified and resolved.
 
-Tools & Libraries Used:
+### Tools & Libraries Used:
 
 Python
 
@@ -12,7 +12,7 @@ Pandas
 
 Jupyter Notebook
 
-Data Cleaning Steps Performed:
+### Data Cleaning Steps Performed:
 
 Identified and handled missing values using appropriate techniques
 
@@ -28,7 +28,7 @@ Renamed columns for clarity and better readability
 
 Performed validation checks to ensure data quality
 
-Final Outcome:
+### Final Outcome:
 
 Clean and structured dataset
 
