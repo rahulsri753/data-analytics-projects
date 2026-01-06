@@ -4,7 +4,7 @@ Project Overview:
 
 This project demonstrates a complete data cleaning workflow using Python to prepare raw data for accurate analysis. The dataset contained real-world issues such as missing values, duplicate records, outliers, inconsistent formats, and incorrect data types, which were systematically identified and resolved.
 
-🛠 Tools & Libraries Used
+Tools & Libraries Used:
 
 Python
 
