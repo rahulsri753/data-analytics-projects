@@ -2,21 +2,21 @@
 
 ### Project Overview:
 
-This project presents an interactive sales performance and time-series analysis dashboard built using Power BI on the Superstore dataset.
+This project showcases an interactive sales performance dashboard built in Power BI using the Superstore dataset.
 
-The dashboard focuses on sales trends over time, profitability, customer behavior, and geographic performance to support data-driven decision making.
+The dashboard is designed to provide high-level business insights, while a dedicated time series analysis section enables deeper understanding of sales trends and seasonality.
 
 ### Business Objectives:
 
-Analyze overall sales and profit trends over time
+Monitor overall sales, profit, and order performance
 
-Perform time series analysis to identify seasonality and growth patterns
-
-Track year-over-year (YoY) sales and profit performance
+Track Year-over-Year (YoY) business growth
 
 Identify top-performing categories, sub-categories, and states
 
-Evaluate the impact of shipping mode, payment mode, and customer segments
+Analyze customer segments, shipping modes, and payment modes
+
+Perform time-based trend and seasonality analysis for planning
 
 ### Key KPIs:
 
@@ -34,9 +34,11 @@ Average Shipping Days: 79.83
 
 ### Dashboard Insights:
 
-Overall sales and profit show a positive growth trend
+Overall sales and profit demonstrate a consistent upward trend
 
 Office Supplies is the highest revenue-generating category
+
+Phones, Chairs, and Binders lead sub-category sales
 
 Standard Class shipping contributes the maximum sales volume
 
@@ -50,16 +52,16 @@ Analyzed daily and monthly sales trends using Order Date
 
 Identified seasonality patterns and sales spikes
 
-Performed Year-over-Year (2019 vs 2020) comparison
+Performed Year-over-Year comparison (2019 vs 2020)
 
 Observed higher sales and profit concentration during Q4 months
 
-Enabled trend-based insights for future planning and forecasting
+Generated trend-based insights useful for forecasting and planning
 
 ### Tools & Technologies Used:
 
-Power BI – Dashboarding, DAX measures, Time intelligence
+Power BI – Dashboard design, DAX measures, time intelligence
 
-Power Query – Data cleaning and Transformation
+Power Query – Data cleaning and transformation
 
 Excel / CSV Dataset – Source data
