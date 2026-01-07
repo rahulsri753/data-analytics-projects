@@ -34,25 +34,27 @@ Average Shipping Days: 79.83
 
 ### Dashboard Insights:
 
-YoY comparison (2019 vs 2020) indicates consistent growth in both sales and profit
+Overall sales and profit show a positive growth trend
 
-Q4 months (Oct–Dec) record peak sales and profitability
+Office Supplies is the highest revenue-generating category
 
-Office Supplies remains the top revenue-generating category
+Standard Class shipping contributes the maximum sales volume
 
-Standard Class shipping contributes the highest sales volume
+California and New York are the top-performing states
 
-California and New York lead in state-wise sales performance
+Corporate and Consumer segments contribute the majority of revenue
 
 ### Time Series Analysis Highlights:
 
-Daily and monthly sales trends analyzed using Order Date
+Analyzed daily and monthly sales trends using Order Date
 
 Identified seasonality patterns and sales spikes
 
-Compared historical sales performance to recent periods
+Performed Year-over-Year (2019 vs 2020) comparison
 
-Enabled trend-based insights for forecasting and planning
+Observed higher sales and profit concentration during Q4 months
+
+Enabled trend-based insights for future planning and forecasting
 
 ### Tools & Technologies Used:
 
