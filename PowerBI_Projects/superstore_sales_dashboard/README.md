@@ -1,6 +1,6 @@
 ## Superstore Sales Dashboard | Power BI
 
-### Project Overview
+### Project Overview:
 
 This project showcases an interactive sales performance dashboard built in Power BI using the Superstore dataset.
 
