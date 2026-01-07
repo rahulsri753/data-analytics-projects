@@ -58,8 +58,8 @@ Enabled trend-based insights for forecasting and planning
 
 ### Tools & Technologies Used:
 
-Power BI – Dashboarding, DAX measures, time intelligence
+Power BI – Dashboarding, DAX measures, Time intelligence
 
-Power Query – Data cleaning and transformation
+Power Query – Data cleaning and Transformation
 
 Excel / CSV Dataset – Source data
