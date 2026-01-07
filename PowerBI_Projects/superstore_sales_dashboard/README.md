@@ -34,8 +34,6 @@ Average Shipping Days: 79.83
 
 ### Dashboard Insights:
 
-Time Series Analysis shows a steady upward sales trend with clear monthly fluctuations
-
 YoY comparison (2019 vs 2020) indicates consistent growth in both sales and profit
 
 Q4 months (Oct–Dec) record peak sales and profitability
