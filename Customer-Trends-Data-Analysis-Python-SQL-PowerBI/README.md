@@ -5,8 +5,8 @@ This project analyzes customer shopping behavior using transactional data from 3
 The objective is to uncover insights related to customer demographics, spending patterns, product preferences, discounts, subscriptions, and revenue trends to support data-driven business decisions.
 
 ## Dataset Summary
-- **Total Records: 3,900  
-- **Total Columns: 18  
+- Total Records: 3,900  
+- Total Columns: 18  
 
 ### Key Features:
 - Customer Demographics: Age, Gender, Location, Subscription Status  
@@ -14,7 +14,7 @@ The objective is to uncover insights related to customer demographics, spending 
 - Shopping Behavior: Discount Applied, Previous Purchases, Purchase Frequency, Review Rating, Shipping Type  
 
 ### Data Quality:
-- Missing values found in **Review Rating (37 values)
+- Missing values found in Review Rating (37 values)
 - Handled using **median imputation by product category
 
 ## Tools & Technologies Used
