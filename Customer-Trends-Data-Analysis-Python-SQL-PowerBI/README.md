@@ -1,4 +1,4 @@
-# 🛒 Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 
 ## Project Overview
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories.  
@@ -67,7 +67,7 @@ An interactive dashboard was created to visualize:
 - Discounts strongly influence specific product categories  
 - Younger and middle-aged customers contribute the most revenue  
 
-## 📌 Business Recommendations
+## Business Recommendations
 - Promote subscription plans with exclusive benefits  
 - Strengthen customer loyalty programs 
 - Optimize discount strategies to protect margins  
