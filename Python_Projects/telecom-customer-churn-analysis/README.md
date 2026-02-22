@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis
+# Telecom Churn Analysis
 ### Project Overview
 
 This project analyzes customer churn behavior in a telecom company.
