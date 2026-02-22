@@ -1,5 +1,5 @@
 # Telecom Customer Churn Analysis
-###Project Overview
+### Project Overview
 
 This project analyzes customer churn behavior in a telecom company.
 The primary objective is to identify key factors influencing churn and provide actionable business recommendations to improve customer retention.
