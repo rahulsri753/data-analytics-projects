@@ -93,13 +93,6 @@ Alternative Hypothesis (H₁): Significant difference in average revenue
 
 Significance Level (α): 0.05
 
-### Project Structure
-taxi-revenue-hypothesis-testing/
-│
-├── taxi_revenue_hypothesis_testing.ipynb
-├── dataset/
-├── README.md
-
 ### Skills Demonstrated
 
 Exploratory Data Analysis (EDA)
