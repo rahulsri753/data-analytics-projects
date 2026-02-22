@@ -115,5 +115,3 @@ Translating raw data into insights
 MySQL
 
 SQL
-
-GitHub
