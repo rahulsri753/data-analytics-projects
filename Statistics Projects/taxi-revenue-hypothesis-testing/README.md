@@ -92,3 +92,26 @@ Null Hypothesis (H₀): No difference in average revenue between payment types
 Alternative Hypothesis (H₁): Significant difference in average revenue
 
 Significance Level (α): 0.05
+
+### Project Structure
+taxi-revenue-hypothesis-testing/
+│
+├── taxi_revenue_hypothesis_testing.ipynb
+├── dataset/
+├── README.md
+
+### Skills Demonstrated
+
+Exploratory Data Analysis (EDA)
+
+Statistical Hypothesis Testing
+
+Business Problem Framing
+
+Data Cleaning & Feature Engineering
+
+Data-Driven Decision Making
+
+### Conclusion
+
+This project demonstrates how statistical analysis can be applied to real-world transactional data to extract actionable business insights and support revenue optimization strategies.
